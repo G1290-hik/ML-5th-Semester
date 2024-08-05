@@ -24,19 +24,7 @@ This repository contains various machine learning experiments and assignments fo
     ```bash
     git clone https://github.com/G1290-hik/ML-5th-Semester.git
     ```
-2. Navigate to the repository directory:
-    ```bash
-    cd ML-5th-Semester
-    ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Open Jupyter Notebook:
-    ```bash
-    jupyter notebook
-    ```
-5. Open the desired notebook file and run the cells.
+2. Open the desired notebook file and run the cells.
 
 ## Contributing
 
